@@ -21,7 +21,7 @@ Finally, grid seach was employed on the ridge regression model to find the optim
 ![Image](imgs/gridsearch.png)
 This model obtained a mean cross validation score of of $0.9376433845014158
 $. Finally we have arrived at a reasonably accurate predictor of price for the automobile data given.
-# Tools and Techonologies used
+## Tools and Techonologies used
 <ul>
 <li><b>Techonologies</b>: Jupyter Notebook, Python
 <li><b>Libraries</b>: Pandas, scikit-learn, SeaBorn, MatPlotLib, numpy, scipy, ipywidgets, tqdm
